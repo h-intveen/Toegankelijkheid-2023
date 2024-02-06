@@ -1,7 +1,7 @@
 
 <!-- .slide: data-menu-title="Frontpage"; data-background-image="images/accessibility4pics.png"; data-background-opacity="0.2"; background-size:contain -->
 # Training Toegankelijkheid
-?-?-2023
+ voorjaar 2023
 
 Note:
 - Printen: kan vanuit Chrome met url suffix: ?print-pdf
